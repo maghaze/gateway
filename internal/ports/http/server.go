@@ -6,7 +6,7 @@ import (
 
 	"github.com/ansrivas/fiberprometheus/v2"
 	"github.com/gofiber/fiber/v2"
-	"github.com/maghaze/api-gateway/internal/ports/grpc"
+	"github.com/maghaze/gateway/internal/ports/grpc"
 	"go.uber.org/zap"
 )
 

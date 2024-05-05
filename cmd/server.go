@@ -6,10 +6,10 @@ import (
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
-	"github.com/maghaze/api-gateway/internal/config"
-	"github.com/maghaze/api-gateway/internal/ports/grpc"
-	"github.com/maghaze/api-gateway/internal/ports/http"
-	"github.com/maghaze/api-gateway/pkg/logger"
+	"github.com/maghaze/gateway/internal/config"
+	"github.com/maghaze/gateway/internal/ports/grpc"
+	"github.com/maghaze/gateway/internal/ports/http"
+	"github.com/maghaze/gateway/pkg/logger"
 )
 
 type Server struct {

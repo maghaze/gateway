@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
-	"github.com/maghaze/api-gateway/cmd"
+	"github.com/maghaze/gateway/cmd"
 )
 
 func main() {

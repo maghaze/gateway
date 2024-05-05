@@ -1,9 +1,9 @@
 package config
 
 import (
-	"github.com/maghaze/api-gateway/internal/ports/grpc"
-	"github.com/maghaze/api-gateway/internal/ports/http"
-	"github.com/maghaze/api-gateway/pkg/logger"
+	"github.com/maghaze/gateway/internal/ports/grpc"
+	"github.com/maghaze/gateway/internal/ports/http"
+	"github.com/maghaze/gateway/pkg/logger"
 )
 
 type Config struct {

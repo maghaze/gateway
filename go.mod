@@ -1,6 +1,6 @@
-module github.com/maghaze/api-gateway
+module github.com/maghaze/gateway
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/CafeKetab/PBs v0.1.5
